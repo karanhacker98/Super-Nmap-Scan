@@ -18,7 +18,7 @@
 ```bash
 apt update && apt upgrade -y
 pkg install git nmap curl -y
-git clone [https://github.com/YOUR_USERNAME/Super-Nmap-Scan](https://github.com/YOUR_USERNAME/Super-Nmap-Scan)
+git clone [https://github.com/karanhacker98/Super-Nmap-Scan.git
 cd Super-Nmap-Scan
 chmod +x super_nmap.sh
 ./super_nmap.sh
