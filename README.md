@@ -13,6 +13,17 @@
 
 ---
 
+
+📖 Technical Specifications
+Scanner: Nmap 7.9+ Engine
+Network Protocol: TCP/IPv6
+OS Support: Termux (Android), Kali Linux, Ubuntu, Parrot OS
+API: ipinfo.io (No API key required for basic lookups)
+👤 Connect with Me
+Developer: Cyber Bishnoi
+Instagram: @Cyber_Bishnoi29
+⚠️ Disclaimer: This tool is strictly for educational purposes. Any misuse is the sole responsibility of the user.
+
 ## 🛠️ How to Install
 
 ```bash
